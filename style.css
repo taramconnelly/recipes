@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: center;
+        margin: 8px;
+    }
+    
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    
+    .item {
+        flex: 1;
+        background-color:aliceblue;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    img {
+        height: 200px;
+        width: auto;
+    }
