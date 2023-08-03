@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#clicktag, 
+#preload, #preload_svg, 
+#container, .border,
+.im, .c,
+#content, #cta,
+#t1S, #t2S, #t3S, #t4S
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 300px;
+	height: 250px;
+}
+
+#t1C{top: 10px;}
+
+#t1S{top: -10px;}
+
+#t2C{top: 43px;}
+
+#t2S{top: -43px;}
+
+#t3C{top: 87px;}
+
+#t3S{top: -87px;}
+
+#t4C{top: 126px;}
+
+#t4S{top: -126px;}
+
+#flag{top: -2px;}
+
+#ctaC{
+	left: 10px;
+	width: 141px;
+}
+
+#cta{
+	left: -10px;
+}
+
+.c{overflow: hidden;}
+
+#clicktag{
+	cursor:pointer;
+}
+
+#preload{
+	overflow:hidden;
+	background-color:#010c18;
+	visibility:hidden;
+}
+
+#preload_svg{
+	left:50%;
+	top:50%;
+	width:40px;
+	height:40px;
+	transform:translate(-50%, -50%);
+	-moz-transform:translate(-50%, -50%);
+	-ms-transform:translate(-50%, -50%);
+	-o-transform:translate(-50%, -50%);
+	-webkit-transform:translate(-50%, -50%);
+	opacity:0;
+}
+
+#container{
+	overflow:hidden;
+	visibility:hidden;
+	background-color: #FFFFFF;
+}
+
+.border{
+	width:298px;
+	height:248px;	
+	border:#000000 solid 1px;
+}

@@ -1,0 +1,85 @@
+body.page-template-recipe-index .adthrive-content {
+grid-column: 1 / -1;
+}
+
+body.home #AdThrive_Content_2_desktop {
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+
+body.home #AdThrive_Sidebar_9_desktop {
+    margin-top: 0;
+    min-width: 300px !important;
+}
+
+body.home .adthrive-sidebar.adthrive-stuck {
+    padding-top: 10px;
+    position: sticky;
+}
+
+.adthrive-recipe {
+min-height: 200px !Important;
+min-width: 250px;
+}
+
+.adthrive-device-desktop .adthrive-recipe, .adthrive-device-tablet .adthrive-recipe {
+float: right;
+clear: right;
+margin-left: 15px!important;
+}
+
+.adthrive-collapse-player {
+padding-bottom: 15px; 
+margin-bottom: 30px;
+}
+
+.adthrive-player-position.adthrive-collapse-mobile.adthrive-collapse-bottom-left {
+margin-bottom: 20px;
+}
+
+body.page-template-recipe-index .adthrive-content {
+grid-column: 1 / -1;
+margin-bottom: 45px;
+}
+
+.adthrive-ad:not(.adthrive-footer){
+    padding: 10px 0;
+    margin: 16px auto;
+    text-align: center;
+    background-color: #F1F1F1;
+}
+.adthrive-ad.adthrive-sidebar:before {
+    content: "ADVERTISEMENT";
+    vertical-align: top;
+    margin-top: -5px;
+    line-height: 15px;
+    width: 85%;
+    display: inline-block;
+    color: grey;
+    font-size: 10px;
+}
+.adthrive-ad.adthrive-content:before ,
+.adthrive-ad.adthrive-recipe:before{
+    content: "ADVERTISEMENT";
+    vertical-align: top;
+    margin-top: -5px;
+    line-height: 15px;
+    width: 85%;
+    display: inline-block;
+    color: grey;
+    font-size: 10px;
+}
+
+/* Top Center White Background */
+.adthrive-collapse-mobile-background {
+background-color: #fff!important;
+}
+.adthrive-top-collapse-close > svg > * {
+stroke: black;
+font-family: sans-serif;
+}
+/* END top center white background */
+
+.adthrive-player-position.adthrive-collapse-mobile.adthrive-collapse-top-center.adthrive-player-without-wrapper-text {
+padding:0 !important;
+}

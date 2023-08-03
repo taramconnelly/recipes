@@ -1,0 +1,47 @@
+.block-email {
+	--cwp-image: 320px;
+	position: relative;
+	align-items: center;
+}
+
+.block-email.cwp-large,
+.block-email.cwp-large.has-background {
+	padding: var(--wp--custom--layout--block-gap);
+}
+
+.block-email__content {
+	flex-basis: 0;
+	flex-grow: 1;
+}
+
+.block-email__image,
+.editor-styles-wrapper .wp-block-group:not(.is-layout-constrained) > .block-email__image {
+	max-width: var(--cwp-image);
+}
+
+@media only screen and (max-width: 760px) {
+
+	.block-email .block-email__inner,
+	.editor-styles-wrapper .block-email .block-email__inner {
+		display: block;
+	}
+
+	.block-email__image,
+	.editor-styles-wrapper .wp-block-group:not(.is-layout-constrained) > .block-email__image {
+		max-width: 100%;
+	}
+
+	.block-email__content {
+		padding-top: var(--wp--custom--layout--block-gap);
+	}
+
+}
+
+.block-area-sidebar .block-email .block-email__inner {
+	display: block;
+	padding: 0;
+}
+
+.block-area-sidebar .block-email__image {
+	margin-bottom: var(--wp--custom--layout--block-gap);
+}

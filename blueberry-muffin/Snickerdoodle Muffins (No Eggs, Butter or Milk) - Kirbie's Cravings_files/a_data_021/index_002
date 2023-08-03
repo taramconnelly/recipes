@@ -1,0 +1,49 @@
+
+var ftGUID_5237035="5693556FF0A3AB";
+var ftConfID_5237035="0";
+var ftParams_5237035="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fkirbiecravings.com%2Fsnickerdoodle-muffins%2F&gdpr=0&us_privacy=${US_PRIVACY}&cachebuster=909019.6450096414";
+var ftKeyword_5237035="";
+var ftCustom_5237035="";
+var ftSection_5237035="";
+var ftSegment_5237035="";
+var ftSegmentList_5237035=[];
+var ftRuleMatch_5237035="0";
+var ftTimestamp_5237035="1691069244";
+var ftGeoC2_5237035="us";
+var ftGeoState_5237035="tx";
+var ftGeoCity_5237035="austin";
+var ftISP_5237035="t-mobile usa inc.";
+var ftSpeed_5237035="mobile";
+var ftConnType_5237035="mobile";
+var ftDMA_5237035="635";
+var ftLong_5237035="-97.8";
+var ftLat_5237035="30.21";
+var ftPostal_5237035="78745";
+var ftTimeZone_5237035="-500";
+var ftMobileCarrier_5237035="t-mobile";
+var ftImp5237035 = {};
+ftImp5237035.privacy = "x";
+ftImp5237035.guidAge = "-1";
+ftImp5237035.impID = "4F94D9A9-DFDD-C660-8D23-6BBD6C540732";
+ftImp5237035.duid = "FT:5693556FF0A3AB";
+ftImp5237035.ft_tpplid = "";
+ftImp5237035.ft_c = {};
+ftImp5237035.gdpr = "0";
+ftImp5237035.gdpr_consent = "";
+ftImp5237035.gdpr_pd = "";
+ftImp5237035.oob_consent = "";
+ftImp5237035.gdprStoredConsent = "";
+ftImp5237035.us_privacy = "!!US_PRIVACY!";
+ftImp5237035.gpc = "0";
+
+ftImp5237035.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_5237035') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/523/5237035/4303194/js/j-5237035-4303194.js";
+    js.id = "ftscript_m5237035";
+    tag.parentNode.insertBefore(js, tag);
+}());

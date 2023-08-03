@@ -1,0 +1,34 @@
+.block-seen-in__title {
+	text-align: center;
+	margin: 0 0 24px;
+}
+
+.block-seen-in__image-text {
+	margin: 0 auto 24px;
+}
+
+.block-seen-in__wrap {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	column-gap: 38px;
+	row-gap: 16px;
+}
+
+.block-seen-in__wrap img,
+.editor-styles-wrapper .block-seen-in__wrap img {
+	width: 100px;
+	height: 48px;
+	object-fit: contain;
+}
+
+.block-area-sidebar .block-seen-in__wrap {
+	gap: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+	.block-seen-in__wrap {
+		column-gap: 20px;
+	}
+}

@@ -1,0 +1,5 @@
+.block-post-meta p {
+	font-size: var(--wp--preset--font-size--tiny);
+	line-height: var(--wp--custom--line-height--small);
+	letter-spacing: var(--wp--custom--letter-spacing--loose);
+	text-transform: uppercase;
