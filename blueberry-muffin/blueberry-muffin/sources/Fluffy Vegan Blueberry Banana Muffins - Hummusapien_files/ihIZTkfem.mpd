@@ -1,0 +1,58 @@
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" xmlns:cenc="urn:mpeg:cenc:2013" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" minBufferTime="PT2S" type="static" mediaPresentationDuration="PT56.45800018310547S">
+  <Period id="0">
+    <AdaptationSet id="0" contentType="video" frameRate="1000000/42000" subsegmentAlignment="true" par="34:19" maxWidth="1280" maxHeight="720">
+      <Representation id="1" bandwidth="88454" codecs="vp9" mimeType="video/webm" sar="1:1" width="240" height="134">
+        <BaseURL>/video/upload/br_300k,c_limit,h_135,vc_vp9,w_240/v1663957465/ihIZTkfem.webmdv</BaseURL>
+        <SegmentBase indexRange="318-782" timescale="1000000">
+          <Initialization range="0-317" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="2" bandwidth="130347" codecs="vp9" mimeType="video/webm" sar="1:1" width="320" height="180">
+        <BaseURL>/video/upload/br_500k,c_limit,h_180,vc_vp9,w_320/v1663957465/ihIZTkfem.webmdv</BaseURL>
+        <SegmentBase indexRange="320-785" timescale="1000000">
+          <Initialization range="0-319" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="3" bandwidth="219420" codecs="vp9" mimeType="video/webm" sar="1:1" width="480" height="270">
+        <BaseURL>/video/upload/br_800k,c_limit,h_270,vc_vp9,w_480/v1663957465/ihIZTkfem.webmdv</BaseURL>
+        <SegmentBase indexRange="322-788" timescale="1000000">
+          <Initialization range="0-321" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="4" bandwidth="334887" codecs="vp9" mimeType="video/webm" sar="1:1" width="640" height="360">
+        <BaseURL>/video/upload/br_2m,c_limit,h_360,vc_vp9,w_640/v1663957465/ihIZTkfem.webmdv</BaseURL>
+        <SegmentBase indexRange="322-789" timescale="1000000">
+          <Initialization range="0-321" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="5" bandwidth="469864" codecs="vp9" mimeType="video/webm" sar="1:1" width="960" height="540">
+        <BaseURL>/video/upload/br_3500k,c_limit,h_540,vc_vp9,w_960/v1663957465/ihIZTkfem.webmdv</BaseURL>
+        <SegmentBase indexRange="322-789" timescale="1000000" presentationTimeOffset="83000">
+          <Initialization range="0-321" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="6" bandwidth="666287" codecs="vp9" mimeType="video/webm" sar="1:1" width="1280" height="720">
+        <BaseURL>/video/upload/br_5500k,c_limit,h_720,vc_vp9,w_1280/v1663957465/ihIZTkfem.webmdv</BaseURL>
+        <SegmentBase indexRange="307-774" timescale="1000000" presentationTimeOffset="83000">
+          <Initialization range="0-306" />
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" subsegmentAlignment="true">
+      <Representation id="7" bandwidth="131209" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+        <BaseURL>/video/upload/br_300k,c_limit,h_135,vc_vp9,w_240/v1663957465/ihIZTkfem.mp4da</BaseURL>
+        <SegmentBase indexRange="760-1139" timescale="44100">
+          <Initialization range="0-759" />
+        </SegmentBase>
+      </Representation>
+      <Representation id="8" bandwidth="130263" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="22050">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+        <BaseURL>/video/upload/br_3500k,c_limit,h_540,vc_vp9,w_960/v1663957465/ihIZTkfem.mp4da</BaseURL>
+        <SegmentBase indexRange="760-1139" timescale="22050" presentationTimeOffset="1830">
+          <Initialization range="0-759" />
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
