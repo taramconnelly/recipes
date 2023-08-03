@@ -1,43 +1,0 @@
-
-var ftGUID_7541900="56934F63203EA9";
-var ftConfID_7541900="29303179";
-var ftParams_7541900="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fkirbiecravings.com%2Fsnickerdoodle-muffins%2F&gdpr=0&us_privacy=${US_PRIVACY}&ftClick=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsurZNif2AIuE8dPqhId8l1Had5IRH7yzcNtOdEPBNYtbMGW3JZA_U0wU_bGALXrEuUBDSj9CyAtaDvdynoBRM_PaaO28P6EdDWODHo3JRSELvHvfmxfdDA8Qf8ABAsNPRE9D84cKy-D477qyvag2oX4UdASaGtE7vRn3_qzMTTlhNVEqnmoxzxeUkNF1OhYmiE6dNHy03Eya3-41dirZB5ApkGEymyDZd12s7SpCrwX81ThBS31P8k7CUGN3xyYYJeCAiR9okp4hb_cpcihvbifEBDgiVwf_mrdgZ3uXHQC6qidfPK22iHwcA5vrQCu7Xtl3pdV16qXe8xKcr3vVSnPgpZBmUmkkwIWQvY0cl9ktJYRq4dXGBhGYUEI9Jbbvvc7vgJUFmNv-J2uleiDWbw1RuV5iejueu-TqXG_tOk_1km8lR9rRzw8XigvU543qEX8igNkyffk4_lQQxClfnPm8z49zZNM6EK6j2KLO19pZqaWwO03D5ANCpVApEE57ocjwOhS9pd8mnO8OoLlt9VUhwfONuQOXA4oOoSCY4b8DOXhl_tmx9PgJY-NwzecakTfAOy4HKOFvBd94RJ_sNh3q2w0opUADiOpPQ9T0XvhYcJnNpdK4axlxs6w6iiYSRZoJ7I6Y1nYTB5UHScgpMyYLJ7Way5gbT_U5DQ4oh0Kau0AhcPVPsiX2unH6lEa_5mr81w4HkdMrnoyNhuhOexyceWXqGNNg-KQjsNp569E07f-A0wWKRy2n_ZL_rtsQXq7WowvdYIeHAm9neD9vEZXkMBJmdAunSvHK13Zks-1V4UPM6iZuibBPkAExXJl-ePKeudwDwOzLefBvmDmuyxX6X-YPKbrYGo57PRcC__Qwjt2qCzsOKYJfSy2UJtmr8woWng9EnI7kDftTCt4QlN6AbxRlrlPHTgwueeOhYIFTr6nfFEbExgAqtLgV-heqGTnrfMtKpz6ekgmWXPkqI9pSZcdkl9KIVueHgFPKntvK0C98OwctGsGEp1TQfSaDZiN-PV_A8AhltOmZPAqHCu34upxThUpDv1EBQhEMptrcinQcyYoU2b6oFmpJN5Hzjf3fCRFZ88WfQuX1M4EeCwnaQWDYfd59eXtIJgNznqdA3CgCvd-GRsVXWGvyVfTTx_Ss9ibczlsuxpBQzRXWuILkzKYniG8-Or0hHFExQV4I7m5GdVvlZZIvlrFvRrd5V81Kg5Vx1pIIXwFLs5TSoVvzijfLM-lVDQm5nGdVoliw5aRJ9BC59zKJuxLn6g5aGpPFTT1-99Rgr9cXcw6mwvUDONRWgXDmHyg61FLo2s-TBb3iV7MaFbW2kvclzimmDttLZnrn1ey6fGNCq-LR6AXU5oEVI9hFrfh7xifUuM7wqI7ePZ2IlXO08toH-R8TGckaf0MroMy83KnZ3N_dknikVNvIjw4CQ&sai=AMfl-YR4jj3PAEli9qm76hZG33uZxAQBFo-VO6BDY5cywSX_P3W08hHmd1TYvy45Sk_OM1j62ty_XBGP6nGXRkJZGH0qQycrzMKJGtmGOhhqrkxQ1pFx-UTCBDe8E5oCfRceUpYS2_CKlkgaztsthdI3nNiGSHip_-EGpU4aJrvYK8h6BuzbOtmA7ePpIrrSBOR8wuf4sZiIoCOS9N5_lnbB5E8&sig=Cg0ArKJSzGRCI3fZ8bLcEAE&cry=1&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=&ft_custom=7191155_30322358_372169808&cachebuster=127198.68027313752&ft_keyword=DSK300X250PZNQ3MYBBY5DAYDISDSK300X250DCOP2FV4BF&ft_section=DSK300X250PZNQ3MYBBY5DAYDISDSK300X250DCOP2FV4BF";
-var ftKeyword_7541900="q3mybby";
-var ftCustom_7541900="7191155_30322358_372169808";
-var ftSection_7541900="DSK300X250PZNQ3MYBBY5DAYDISDSK300X250DCOP2FV4BF";
-var ftSegment_7541900="";
-var ftSegmentList_7541900=[];
-var ftRuleMatch_7541900="00010000";
-var ftTimestamp_7541900="1691069235";
-var ftGeoC2_7541900="us";
-var ftGeoState_7541900="tx";
-var ftGeoCity_7541900="austin";
-var ftISP_7541900="t-mobile usa inc.";
-var ftSpeed_7541900="mobile";
-var ftConnType_7541900="mobile";
-var ftDMA_7541900="635";
-var ftLong_7541900="-97.8";
-var ftLat_7541900="30.21";
-var ftPostal_7541900="78745";
-var ftTimeZone_7541900="-500";
-var ftMobileCarrier_7541900="t-mobile";
-var ftImp7541900 = {};
-ftImp7541900.privacy = "x";
-ftImp7541900.guidAge = "-1";
-ftImp7541900.impID = "42CB8331-732F-5801-E0B7-103A952AAACB";
-ftImp7541900.duid = "FT:56934F63203EA9";
-
-ftImp7541900.ft_tpplid = "";
-ftImp7541900.ft_c = {};
-ftImp7541900.gdpr = "0";
-ftImp7541900.gdpr_consent = "";
-ftImp7541900.gdpr_pd = "";
-ftImp7541900.oob_consent = "";
-ftImp7541900.gdprStoredConsent = "";
-ftImp7541900.us_privacy = "!!US_PRIVACY!";
-ftImp7541900.gpc = "0";
-
-ftImp7541900.jsAppend = "1";
-var ftCreativeId_7541900 = "4183170";
-(function(){var tag=document.getElementById("ft_servedby_7541900")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7541900";js.setAttribute("name","ftscript_m7541900");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7541900");
-
